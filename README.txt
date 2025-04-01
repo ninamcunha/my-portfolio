@@ -1,30 +1,22 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Nina Menezes Cunha's Portfolio
 
+[![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by/3.0/)
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+**Customized from "Editorial" Template**
+Original design by [HTML5 UP](https://html5up.net) | [@ajlkn](https://twitter.com/ajlkn)
+Free under [CCA 3.0 license](https://html5up.net/license)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+## 📫 Let's Connect
+- 🔗 LinkedIn: [linkedin.com/in/nina-menezes-cunha](https://www.linkedin.com/in/nina-menezes-cunha)
+- ⌨️ GitHub: [github.com/ninamcunha](https://github.com/ninamcunha)
+- ✉️ Email: [ninamcunha@gmail.com](mailto:ninamcunha@gmail.com)
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📜 Credits
+- **Original Template**: [Editorial by HTML5 UP](https://html5up.net/editorial)
+- **Demo Images**: [Unsplash](https://unsplash.com) (CC0)
+- **Icons**: [Font Awesome](https://fontawesome.io)
+- **Libraries**: jQuery, Responsive Tools
