@@ -18,5 +18,12 @@ Free under [CCA 3.0 license](https://html5up.net/license)
 ## 📜 Credits
 - **Original Template**: [Editorial by HTML5 UP](https://html5up.net/editorial)
 - **Demo Images**: [Unsplash](https://unsplash.com) (CC0)
+- **Project Header Image**: [Designed by stockgiu / Freepik](https://www.freepik.com)
 - **Icons**: [Font Awesome](https://fontawesome.io)
 - **Libraries**: jQuery, Responsive Tools
+
+---
+
+### Important Notice
+The project header image is used under Freepik's free license terms. For full licensing details, please see:
+[Freepik Terms of Use](http://www.freepik.com/terms_of_use)
