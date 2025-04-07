@@ -2273,3 +2273,39 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+/* NINA ADDED TO FIX ANDROID ISSUE */
+/* Android-Specific Image Fix (Safe for iOS/Desktop) */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  #banner .image {
+    -webkit-transform: translateZ(0); /* Force GPU rendering */
+    transform: translateZ(0);
+    overflow: hidden; /* Contain odd scaling */
+  }
+
+  #banner .image img {
+    max-height: 100%;
+    width: auto;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    perspective: 1000;
+  }
+
+  /* Flexbox fallback for older Android WebViews */
+  #banner {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+}
+
+/* Only targets Chrome on Android (no iOS/desktop side effects) */
+@supports (-webkit-touch-callout:none) and (not (-webkit-overflow-scrolling:touch)) {
+  #banner .image {
+    margin-left: clamp(2em, 5vw, 4em); /* Safer spacing */
+  }
+}
